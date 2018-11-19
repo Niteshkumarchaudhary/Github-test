@@ -1,4 +1,4 @@
-# GitHub setup intialisation  
+# Setup initialisation  
 
 Setting up  Python library for dealing with word pluralization.
 
