@@ -1,20 +1,20 @@
 # Setup initialisation  
-**For the feature extraction technique**
-Setting up  Python library for dealing with word pluralization.
+For the Tensorflow audio Engine Setting up  Python library for dealing with Classification
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-"pip install librosa" for features 
+Install Tensorflow GPU and CUDA and CuDNN
 ```
 
 ## Usage
 
 ```python
 
-import librosa
+import Tensorflow as tf
+import matplotlib.pyplot as plt
 
 foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
