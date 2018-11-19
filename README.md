@@ -1,5 +1,5 @@
 # Setup initialisation  
-
+**For the feature extraction technique**
 Setting up  Python library for dealing with word pluralization.
 
 ## Installation
@@ -13,7 +13,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ## Usage
 
 ```python
-**For the feature extraction technique** 
+
 import librosa
 
 foobar.pluralize('word') # returns 'words'
