@@ -1,4 +1,4 @@
-# GitHub Nitesh 
+# GitHub setup intialisation  
 
 Setting up  Python library for dealing with word pluralization.
 
