@@ -13,6 +13,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ## Usage
 
 ```python
+#### For the feature extraction technique 
 import librosa
 
 foobar.pluralize('word') # returns 'words'
