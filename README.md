@@ -1,5 +1,5 @@
 # Setup initialisation  
-For the Tensoflow audio Engine Setting up  Python library for dealing with Classification
+For the Tensorflow audio Engine Setting up  Python library for dealing with Classification
 
 ## Installation
 
